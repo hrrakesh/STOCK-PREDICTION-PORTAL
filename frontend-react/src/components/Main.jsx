@@ -23,8 +23,9 @@ const Main = () => {
             praesentium dolores fugiat distinctio nihil modi ab tempora
             obcaecati ipsam perferendis rem?
           </p>
+          
 
-          <Button text="Login" class="btn-info" url="/login"/>
+          <Button text="Explore" class="btn-info" url="/dashboard"/>
         </div>
       </div>
     </>
