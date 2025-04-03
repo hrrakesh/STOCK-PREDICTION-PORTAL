@@ -134,6 +134,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+stock_pred/
 env/
 env1/
 venv/
